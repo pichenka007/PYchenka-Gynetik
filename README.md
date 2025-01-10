@@ -1,1 +1,1 @@
-This is a simple but powerful enough library for a genetic algorithm in Python
+This is a simple library for a genetic algorithm in Python
